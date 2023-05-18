@@ -1,0 +1,2 @@
+class AddDefaultTaxToProduct < ApplicationRecord
+end

@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Product one
+  description: MyString
+  category: one
+  company: one
+  price: 9.99
+  stock: 9.99
+  unit: 1
+  available: true
+
+two:
+  name: Product two
+  description: MyString
+  category: two
+  company: two
+  price: 9.99
+  stock: 9.99
+  unit: 1
+  available: true
+
+without_stock:
+  name: Product without stock
+  description: MyString
+  category: one
+  company: one
+  price: 9.99
+  stock: 0
+  unit: 1
+  available: true

@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Tax one
+  percentage: 1
+  taxeable: one(product)
+
+two:
+  name: Tax two
+  percentage: 1
+  taxeable: two(product)

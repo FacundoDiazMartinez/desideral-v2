@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Category one
+  products_count: 1
+  category: one
+  available: false
+  company: one
+
+two:
+  name: Category two
+  products_count: 1
+  category: two
+  available: false
+  company: two

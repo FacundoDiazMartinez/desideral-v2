@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Company One
+  iva_status: monotributo
+  phone_number: "1"
+  email: "company_one@email.com"
+  id_number: "1"
+  business_name: Business Name One
+
+two:
+  name: Company Two
+  iva_status: monotributo
+  phone_number: "2"
+  email: "company_two@email.com"
+  id_number: "2"
+  business_name: Business Name Two

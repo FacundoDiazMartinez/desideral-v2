@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country: <%= AvailableCountry::LIST.sample %>
+  state: State One
+  city: City One
+  street_name: Street Name One
+  street_number: Street Number One
+  post_code: "1"
+  addressable: one(company)
+
+two:
+  country: <%= AvailableCountry::LIST.sample %>
+  state: State Two
+  city: City Two
+  street_name: Street Name Two
+  street_number: Street Number Two
+  post_code: "2"
+  addressable: two(company)
